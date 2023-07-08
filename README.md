@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EVM smart contract development<br>👯 I’m looking to collaborate on any blockchain...<br>🌱 I’m currently learning the new ERC-6551 token standard<br>💬 Ask me about anything blockchain...
+🔭 I’m currently working on EVM smart contract development<br>👯 I’m looking to collaborate on anything blockchain...<br>🌱 I’m currently learning the new ERC-6551 token standard<br>💬 Ask me about anything blockchain...
 
 
 ## 🌐 Socials:
