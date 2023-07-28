@@ -19,13 +19,13 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **EVM smart contract development**
 
-- 🌱 I’m currently learning **about the new ERC-6551 standard.**
+- 🌱 I’m currently learning **about decentralised identifiers**
 
 - ☁️ I've keen interest in all things **blockchain**.
 
 - 📝 I regularly post on [Twitter](https://twitter.com/yorkeccak)
 
-- 💬 Ask me about **solidity, ERC standards, anything blockchain**
+- 💬 Ask me about **solidity, ERC standards, DIDs, anything blockchain**
 
 - 📫 Feel free to reach me out **harveyyorke@proton.me**
 <!--Intro end-->
