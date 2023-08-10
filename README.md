@@ -41,7 +41,7 @@
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yamamuchi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yamamuchi&theme=dark&hide_border=true" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yamamuchi&theme=dark&ount_private=true&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
