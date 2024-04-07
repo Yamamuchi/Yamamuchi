@@ -69,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,aws,solidity,js,py,pydantic,ts,github,nextjs,nodejs,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=firebase,aws,solidity,js,py,gcp,ts,github,nextjs,nodejs,vscode&perline=14" />
   </a>
 </p>
 
